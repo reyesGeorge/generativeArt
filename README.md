@@ -1,5 +1,5 @@
 # generativeArt
-a collection of my Python generated artworks relating to sustainability and nature overall, drawing from many different styles of art. Utilizing Keras and openCV
+a collection of my Python generated artworks drawing from many different styles of art. Utilizing Keras and openCV
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
